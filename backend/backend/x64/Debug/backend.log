@@ -1,0 +1,14 @@
+﻿  AdminListener.cpp
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(82,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(85,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(98,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(101,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(36,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(39,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(52,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(55,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(99,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(376,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(521,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(669,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  backend.vcxproj -> D:\Users\11523\Desktop\人事管理系统\backend\x64\Debug\backend.exe

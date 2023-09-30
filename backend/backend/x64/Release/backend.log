@@ -1,0 +1,32 @@
+﻿  AdminListener.cpp
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(82,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(85,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(98,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(101,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(36,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(39,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(52,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(55,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(99,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(376,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(521,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.cpp(669,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(82,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(85,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(98,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(101,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(36,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(39,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(52,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\AdminListener.h(55,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SqlReader.cpp
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(82,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(85,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(98,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\11523\Desktop\人事管理系统\backend\backend\SqlReader.h(101,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4320 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  backend.vcxproj -> D:\Users\11523\Desktop\人事管理系统\backend\x64\Release\backend.exe
